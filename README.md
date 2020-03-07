@@ -2,6 +2,15 @@
 ================
 Hexo博客框架 + hexo-theme-yilia-plus主题 = 此博客
 
+## 常用API
+
+
+API | 详细
+---|---
+<! --more--> | 首页文章展示在哪断行
+
+
+## 项目运行流程
 1. 编辑博客
 2. hexo server(yarn server) 本地调试项目
 3. hexo generate(yarn build) 构建项目
