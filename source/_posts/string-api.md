@@ -1,10 +1,10 @@
 ---
-title: JavaScript 对象所有API解析
+title: JavaScript String（字符串）所有API解析
 tags: JavaScript
 ---
 
 转载自[路易斯博客（原链接）](https://louiszhai.github.io/2016/01/12/js.String) 稍作修改，精简说明内容，以便随时查阅。**新增最新API**
-
+<!--more-->
 
 常用方法：charAt、indexOf、lastIndexOf、match、replace、search、slice、split、substr、substring、toLowerCase、toUpperCase、trim、valueof 等这些
 

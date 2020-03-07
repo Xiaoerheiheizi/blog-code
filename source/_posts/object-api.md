@@ -1,10 +1,11 @@
 ---
-title: JavaScript 对象所有API解析
+title: JavaScript Object（对象）所有API解析
 tags: JavaScript
 ---
 
 转载自[若川的博客（原链接）](https://www.lxchuan12.cn/js-object-api/) 稍作修改，精简说明内容，以便随时查阅
 
+<!--more-->
 
 MDN上一些非标准API，本文没有列举。
 

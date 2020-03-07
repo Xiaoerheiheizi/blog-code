@@ -1,10 +1,10 @@
 ---
-title: JavaScript 数组所有API解析
+title: JavaScript Array（数组）所有API解析
 tags: JavaScript
 ---
 
 转载自[路易斯博客（原链接）](https://louiszhai.github.io/2017/04/28/array/) 稍作修改，精简说明内容，以便随时查阅。**新增最新API**
-
+<!--more-->
 
 类数组对象字符串（String），像join方法（不改变当前对象自身）就完全适用，可惜的是 Array.prototype 中很多方法均会去试图修改当前对象的 length 属性，比如说 pop、push、shift, unshift 方法，操作 String 对象时，由于String对象的长度本身不可更改，这将导致抛出TypeError错误
 

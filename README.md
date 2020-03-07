@@ -12,7 +12,7 @@ API | 详细
 
 ## 项目运行流程
 1. 编辑博客
-2. hexo server(yarn server) 本地调试项目
-3. hexo generate(yarn build) 构建项目
-4. htxo deploy(yarn deploy) 一键部署到github
+2. hexo server ：本地调试项目
+3. hexo generate ：构建项目
+4. htxo deploy ：一键部署到github
 5. 访问 [页面](https://xiaoerheiheizi.github.io/blog/) 查看效果
