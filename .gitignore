@@ -9,3 +9,5 @@ public/
 yarn.lock
 package-lock.json
 .deploy_git/
+./themes/.yilia-plus/node_modules/
+./themes/.yilia-plus/.git/
