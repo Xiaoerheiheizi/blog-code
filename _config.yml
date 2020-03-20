@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小二黑的博客
+title: Sonder的博客
 subtitle: ''
 description: 个人博客
-keywords: 小二黑,博客,个人博客
-author: 小二黑
+keywords: Sonder,博客,个人博客
+author: Sonder
 language: en
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://pedantic-mclean-d4974e.netlify.com/
-root: /
+url: https://xiaoerheiheizi.github.io/
+root: /blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
